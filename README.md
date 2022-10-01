@@ -1,5 +1,5 @@
 # Portfolio
 
-Developed using React and Spring.
+Developed using React, TailwindCSS, and Spring.
 
 [nitsua.dev](https://nitsua.dev "nitsua.dev")
